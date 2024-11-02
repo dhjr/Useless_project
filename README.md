@@ -1,5 +1,5 @@
 Project name: Rage Roll \
-Team name: DNA \
+Team name: DNA \\
 Team Members: \
 1.Dhananjay R \
 2.Nazmin Babu Baker \
@@ -33,4 +33,4 @@ Project Documentation:
 Team Contributions: \
 Dhananjay R: Lead Coder \
 Nazmin Babu Baker: Coding and UI \
-Jyothsna Treesa George: UI \
+Jyothsna Treesa George: UI
