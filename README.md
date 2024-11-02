@@ -1,4 +1,4 @@
-# Project name: Rage Roll \
+# Project name: Rage Roll
 ## Team name: DNA \
 \
 ## Team Members: \
