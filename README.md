@@ -31,7 +31,7 @@ For software
 
 #### Project Documentation:
 
-## Team Contributions: \
+## Team Contributions: 
 Dhananjay R: Lead Coder \
 Nazmin Babu Baker: Coding and UI \
 Jyothsna Treesa George: UI
