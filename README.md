@@ -1,6 +1,6 @@
 Project name: Rage Roll \
-team name: DNA \
-Team Members: \ 
+Team name: DNA \
+Team Members:\ 
 1.Dhananjay R \
 2.Nazmin Babu Baker \
 3.Jyothsna Treesa George \
